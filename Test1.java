@@ -13,10 +13,10 @@ public class Test1
 }
 
 /* OUTPUT :
-*
-* 
-*     Hello World
-*
-*
+
+
+    Hello World
+
+
 */
 
